@@ -1,25 +1,8 @@
 ## Hi there 👋
 
-<!--
-**chrisdollo/chrisdollo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# Hi there 👋, I'm Chris!
 ### 💻 Senior Computer Science Student | 📱 Android Dev | 🔧 Fullstack Dev | AI/Ml Enthusiast
 
 I'm currently working on:
-- 📦 A custom FUSE filesystem in C (`MEMEfs`)
 - 🌐 My first fullstack project using MongoDB + LLMs
 - 🤖 A mood-based playlist generator using NLP
 
@@ -36,15 +19,6 @@ Languages:   C | Java | Python | JavaScript
 Frameworks:  Android | Node.js | Express | React
 Tools:       Git | MongoDB | FUSE | Firebase | VSCode
 ```
-
-
-
-
-Replace:
-- `chrisdollo` with your GitHub username
-- `Chris Dollo` with your LinkedIn handle
-- `https://chris-hub.netlify.app/` with your actual site
-
 ---
 
 ### 🎨 3. Add Visuals & Flair (Optional)
@@ -53,8 +27,6 @@ You can use:
 - **Shields.io badges** (e.g., GitHub followers, languages)
 - **GIFs and emojis** to add personality
 - **GitHub activity graphs** like:
-
-
 
 ---
 
