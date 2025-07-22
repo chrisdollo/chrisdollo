@@ -1,10 +1,9 @@
 ## Hi there 👋
 
-### 💻 Senior Computer Science Student | 📱 Android Dev | 🔧 Fullstack Dev | AI/Ml Enthusiast
+### 💻 Senior Computer Science Student 
 
 I'm currently working on:
-- 🌐 My first fullstack project using MongoDB + LLMs
-- 🤖 A mood-based playlist generator using NLP
+- Not giving up
 
 ### 📫 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]([https://www.linkedin.com/in/chris-d-951953234/])
