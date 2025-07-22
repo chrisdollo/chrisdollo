@@ -1,18 +1,16 @@
 ## Hi, I'm Chris
 
-### 💻 Senior Computer Science Student 
-
 I'm a data-driven problem solver passionate about using **machine learning**, and **software engineering**. 
 Currently pursuing my B.S. in Computer Science at UMBC, I’ve developed end-to-end ML and full-stack applications across healthcare, sustainability, and music domains.
 
-### 🔗 Connect with Me
+## 🔗 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/your-link/](https://www.linkedin.com/in/chris-d-951953234/)) <!-- Replace with your LinkedIn profile -->
 - [Portfolio](https://chris-hub.netlify.app/)
 
 ---
 
-### 🧠 About Me
+## 🧠 About Me
 
 - 🔍 Passionate about AI, ML, and scalable backend systems
 - 🧪 Currently working on EEG/EMG gesture classification and a music recommender system
@@ -24,7 +22,7 @@ Currently pursuing my B.S. in Computer Science at UMBC, I’ve developed end-to-
 
 
 
-### 🚀 Tech Stack
+## 🚀 Tech Stack
 
 ```bash
 Languages:   C | Java | Python | JavaScript
