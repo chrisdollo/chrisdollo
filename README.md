@@ -20,17 +20,15 @@ Currently pursuing my B.S. in Computer Science at UMBC, I’ve developed end-to-
 
 ---
 
-
-
 ## 🚀 Tech Stack
 
-```bash
-Languages:   C | Java | Python | JavaScript
-Frameworks:  Android | Node.js | Express | React
+Languages:   C++/C | Java | Python | JavaScript
+Frameworks:  Android | Node.js | React.js
 Tools:       Git | MongoDB | FUSE | Firebase | VSCode
-```
 ---
 
+
+## GitHub Stats: Coming soon!
 
 
 ## 📂 Featured Projects
@@ -39,5 +37,9 @@ Tools:       Git | MongoDB | FUSE | Firebase | VSCode
 - ♻️ Image classifier for waste material detection (95% accuracy using ResNet-18)
 - 📁 Includes dataset, model training scripts, and model cards
 
+
+## 📂 Extra curricular
+- I like playing guitar
+- i own a motorcycle
 
 
