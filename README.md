@@ -25,7 +25,7 @@ Currently pursuing my B.S. in Computer Science at UMBC, I’ve developed end-to-
 Languages:   C++/C | Java | Python | JavaScript
 Frameworks:  Android | Node.js | React.js
 Tools:       Git | MongoDB | FUSE | Firebase | VSCode
----
+
 
 
 ## GitHub Stats: Coming soon!
