@@ -40,6 +40,5 @@ Tools:       Git | MongoDB | FUSE | Firebase | VSCode
 
 ## 📂 Extra curricular
 - I like playing guitar
-- i own a motorcycle
 
 
