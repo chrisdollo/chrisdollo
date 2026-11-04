@@ -30,12 +30,6 @@ Tools:       Git | MongoDB | Firebase | AWS | FUSE | VSCode
 
 ---
 
-## 📊 GitHub Stats
-
-![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrisdollo&show_icons=true)
-
----
-
 ## 📂 Featured Projects
 
 ### 🌍 [eco-recyclr-waste-classifier](https://github.com/BAH-Codefest-2025/eco-recyclr)
